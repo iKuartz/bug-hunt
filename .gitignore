@@ -1,0 +1,3 @@
+# Ignoring linter files after initial upload #
+###################
+node_modules/**
